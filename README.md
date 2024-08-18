@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AkroVibe and this is my GitHub profile
+- 👀 I’m interested in Collective Intelligence, Open Sorce, Open Data
+- 🌱 I’m currently learning python 🐍, php 🐘, rust 🦀 and linux 🐧
+- 💞️ I’m looking to collaborate on what I'm learning
+- 📫 How to reach me: `𝕏` @AkroVibe or 📧 AkroVibe@proton.me
+- 😄 Pronouns: -
+- ⚡ Fun fact: I am not you, and you are not me! And that's what makes life so wonderful! ✨
